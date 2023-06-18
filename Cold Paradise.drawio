@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T14:58:06.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eCANRAcXQzzpa2TppEQC" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-18T19:06:16.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QoZFxQ10eUxZWVyGRdE9" version="21.4.0" type="github">
   <diagram name="Page-1" id="nOd4-JYytBQm5to-k_-0">
-    <mxGraphModel dx="954" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lvfzG6D3ERDSDEV1IYMJ-1" value="Storyboards for our first animated short - Cold Paradise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-3" value="Barban rescues Elias, grabbing his flipper, and they navigate through the huddle." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1142" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-4" value="Elias hesitates at the entrance while another penguin moves past him." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="248" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-5" value="Flashback to Baby Elias being led into the Core Huddle, where his brother releases his flipper." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1014" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-6" value="Elias feels claustrophobic and sees a penguin resembling his adult brother, which scares him." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="887" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-7" value="Elias enters the huddle, leaving crumbs behind. Other penguins start eating the crumbs." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="759" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-8" value="Barban suggests leaving crumbs like in the tale of Hansel and Gretel." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="631" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-9" value="Penguin 2 makes a remark about Elias not being around for trauma and healing sessions." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="503" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-10" value="&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px; padding-left: 0.375em; display: block; position: relative;&quot;&gt;Therapy room scene with Elias and SEAL 1, a therapist.&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="376" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-11" value="Wide shot of a large huddle of 25,000 PENGUINS braving the severe winter winds along the Antarctica coastline." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNbJ5mPeNILm6wY76e_V-12" value="Drone shot of Elias and Barban arriving at the Core Huddle, a paradise resembling a cruise ship or amusement park." style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=30;strokeWidth=1;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1270" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
